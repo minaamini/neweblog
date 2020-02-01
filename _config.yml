@@ -1,0 +1,11 @@
+# basic options i can say there 
+title: new blog astomentry
+author: amsart mahsa 
+email: your-email@domain.com
+description: A wonderful site greaatttt        
+twitter_username: mahsa
+github_username:  hhhhk
+
+# Build settings
+markdown: kramdown
+theme: minima
